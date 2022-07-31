@@ -1,6 +1,0 @@
-nome = input('Seu primeiro nome =')
-nome2 = input('Seu nome do meio =')
-nome3 = input('Seu sobrenome =')
-print('Seu nome é',nome, nome2, nome3 + ', correto?')
-idade = input('Qual é a sua idade?')
-print('você tem',idade,'anos, correto?')
